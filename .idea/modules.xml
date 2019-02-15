@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Concurrency-threads.iml" filepath="$PROJECT_DIR$/.idea/Concurrency-threads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Threads.iml" filepath="$PROJECT_DIR$/.idea/modules/Threads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Threads_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Threads_main.iml" group="Threads" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Threads_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Threads_test.iml" group="Threads" />
+    </modules>
+  </component>
+</project>
